@@ -1,0 +1,25 @@
+name: Daily Activity Bot
+
+on:
+  schedule:
+    # Se ejecuta automáticamente todos los días a las 12:00 UTC (puedes ajustar la hora)
+    - cron: '0 12 * * *'
+  workflow_dispatch: # Permite ejecutar el workflow manualmente desde la interfaz web de GitHub
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permiso necesario para hacer push al repositorio
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Auto Activity Script
+        run: python auto_activity.py
