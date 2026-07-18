@@ -1,6 +1,6 @@
 <img align="right" alt="Coding GIF" width="190" border="3" src="coding.gif" />
 
-## Hola, soy Adrian Bello
+<p><b><big><big>Hola, soy Adrian Bello</big></big></b></p>
 
 ### Desarrollador Web &nbsp;|&nbsp; Estudiante de Ingenieria en Sistemas &nbsp;|&nbsp; Creador de Soluciones Digitales
 
