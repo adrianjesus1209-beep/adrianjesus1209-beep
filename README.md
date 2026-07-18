@@ -1,17 +1,22 @@
-<img align="right" alt="Coding GIF" width="220" border="3" src="coding.gif" />
+<table width="100%">
+<tr>
+<td valign="top" width="60%">
 
 <h3>Hola, soy Adrian Bello</h3>
 <h4>Desarrollador Web | Estudiante de Ingenieria en Sistemas | Creador de Soluciones Digitales</h4>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&label=VISITAS+AL+PERFIL&color=58A6FF&style=for-the-badge" alt="Vistas del perfil" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&label=VISITAS+AL+PERFIL&color=58A6FF&style=for-the-badge" alt="Vistas del perfil" />
 
-<p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=false&width=435&lines=Transformando+ideas+en+codigo...;Creando+soluciones+modernas...;Estudiante+de+Ingenieria...;Desarrollador+Full-Stack...;git+push+origin+master...;Construyo+codigo+altamente+escalable...;Simplifico+arquitecturas+de+software...;Conecto+equipos,+despliego+soluciones...;Optimizo+basandome+en+hechos..." alt="Typing SVG" /></a>
-</p>
+<br/><br/>
 
-<br clear="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=false&width=400&lines=Transformando+ideas+en+codigo...;Creando+soluciones+modernas...;Estudiante+de+Ingenieria...;Desarrollador+Full-Stack...;git+push+origin+master...;Construyo+codigo+altamente+escalable...;Simplifico+arquitecturas+de+software...;Conecto+equipos,+despliego+soluciones...;Optimizo+basandome+en+hechos..." alt="Typing SVG" /></a>
+
+</td>
+<td valign="top" width="40%" align="right">
+<img src="coding.gif" width="200" border="3" alt="Coding GIF" />
+</td>
+</tr>
+</table>
 
 ---
 
