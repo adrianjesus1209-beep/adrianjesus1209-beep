@@ -1,6 +1,6 @@
 <img align="right" alt="Coding GIF" width="190" border="3" src="coding.gif" />
 
-<p><b><big><big>Hola, soy Adrian Bello</big></big></b></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=99999999&color=FFFFFF&center=false&vCenter=false&width=550&height=60&lines=Hola%2C+soy+Adrian+Bello" alt="Hola, soy Adrian Bello" />
 
 ### Desarrollador Web &nbsp;|&nbsp; Estudiante de Ingenieria en Sistemas &nbsp;|&nbsp; Creador de Soluciones Digitales
 
