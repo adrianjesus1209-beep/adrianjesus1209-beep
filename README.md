@@ -1,16 +1,18 @@
-<img align="right" alt="Coding GIF" width="190" border="3" src="coding.gif" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=550&height=60&lines=Hola%2C+soy+Adrian+Bello" alt="Hola, soy Adrian Bello" />
+  
+  <br/>
+  <img alt="Coding GIF" width="220" src="coding.gif" style="border-radius: 10px;" />
+  <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=99999999&color=FFFFFF&center=false&vCenter=false&width=550&height=60&lines=Hola%2C+soy+Adrian+Bello" alt="Hola, soy Adrian Bello" />
+  ### Desarrollador Web &nbsp;|&nbsp; Estudiante de Ingenieria en Sistemas &nbsp;|&nbsp; Creador de Soluciones Digitales
 
-### Desarrollador Web &nbsp;|&nbsp; Estudiante de Ingenieria en Sistemas &nbsp;|&nbsp; Creador de Soluciones Digitales
+  <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&label=VISITAS+AL+PERFIL&color=58A6FF&style=for-the-badge" alt="Vistas del perfil" />
 
-<img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&label=VISITAS+AL+PERFIL&color=58A6FF&style=for-the-badge" alt="Vistas del perfil" />
+  <br/><br/>
 
-<br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=false&vCenter=false&width=400&lines=Transformando+ideas+en+codigo...;Creando+soluciones+modernas...;Estudiante+de+Ingenieria...;Desarrollador+Full-Stack...;git+push+origin+master...;Construyo+codigo+altamente+escalable...;Simplifico+arquitecturas+de+software...;Conecto+equipos,+despliego+soluciones...;Optimizo+basandome+en+hechos..." alt="Typing SVG" /></a>
-
-<br clear="right" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Transformando+ideas+en+codigo...;Creando+soluciones+modernas...;Estudiante+de+Ingenieria...;Desarrollador+Full-Stack...;git+push+origin+master...;Construyo+codigo+altamente+escalable...;Simplifico+arquitecturas+de+software...;Conecto+equipos,+despliego+soluciones...;Optimizo+basandome+en+hechos..." alt="Typing SVG" /></a>
+</div>
 
 ---
 
