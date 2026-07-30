@@ -70,7 +70,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianjesus1209-beep&theme=react&hide_border=true&background=0D1117&v=1" alt="estadisticas de racha" />
+  <img src="https://streak-stats.demolab.com/?user=adrianjesus1209-beep&theme=react&hide_border=true&background=0D1117" alt="estadisticas de racha" />
 </div>
 
 ---
