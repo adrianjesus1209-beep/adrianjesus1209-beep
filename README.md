@@ -20,7 +20,19 @@
 - **Enfoque:** Especializado en el desarrollo, estructuracion y mantenimiento de **sistemas web, aplicaciones administrativas y paginas de aterrizaje** orientadas a la experiencia de usuario.
 - **Habilidades Core:** Creacion de aplicaciones modernas y responsivas. Fuerte pasion por el desarrollo full-stack trabajando con **PHP, bases de datos relacionales, HTML, CSS, y JavaScript**.
 - **Filosofia:** "El diseno visual y la logica importan en partes iguales". Me encanta refinar los pequenos detalles de la interfaz, asegurando al mismo tiempo que el codigo fuente sea limpio, profesional y altamente escalable.
+- **Curriculum Vitae:** 
+  - 👁️ [Visualizar CV (PDF)](Curriculum_Vitae_Adrian_Jesus.pdf)
+  - 📥 [Descargar CV (PDF Directo)](https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/main/Curriculum_Vitae_Adrian_Jesus.pdf)
 - **Contacto:** [adrianjesus1209@gmail.com](mailto:adrianjesus1209@gmail.com)
+
+<p align="left">
+  <a href="Curriculum_Vitae_Adrian_Jesus.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20Ver%20CV-PDF-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV" />
+  </a>
+  <a href="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/main/Curriculum_Vitae_Adrian_Jesus.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📥%20Descargar%20CV-PDF-238636?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" />
+  </a>
+</p>
 
 ---
 
