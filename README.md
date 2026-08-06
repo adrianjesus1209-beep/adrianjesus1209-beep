@@ -89,9 +89,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake-dark.svg?v=5">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake.svg?v=5">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake-dark.svg?v=5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake-dark.svg?v=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake.svg?v=6">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake-dark.svg?v=6">
   </picture>
 </div>
 
