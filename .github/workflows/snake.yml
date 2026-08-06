@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: adrianjesus1209-beep
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2339d353&color_dots=%230e4429,%230e4429,%23006d32,%2326a641,%2339d353
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2339d353&color_dots=%230d1117,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake.svg?color_snake=%23ff4444&color_dots=%230e4429,%230e4429,%23006d32,%2326a641,%2339d353
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff4444&color_dots=%230d1117,%230e4429,%23006d32,%2326a641,%2339d353
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
