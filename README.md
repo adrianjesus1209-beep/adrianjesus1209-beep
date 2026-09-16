@@ -36,9 +36,6 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
   <a href="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/main/Curriculum_Vitae_Adrian_Jesus.pdf" download>
     <img src="https://img.shields.io/badge/Descargar-PDF-181717?style=flat-square&logo=icloud&logoColor=white" alt="Descargar CV" height="18" />
   </a>
-  <a href="CURRICULUM_VITAE.md">
-    <img src="https://img.shields.io/badge/Editar-Markdown-3178C6?style=flat-square&logo=markdown&logoColor=white" alt="Editar CV" height="18" />
-  </a>
 </p>
 
 ---
