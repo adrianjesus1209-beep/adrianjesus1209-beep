@@ -96,10 +96,6 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine" height="18" />
 </p>
 
-  <br />
-
-  <img src="https://github-activity-graph.vercel.app/graph?username=adrianjesus1209-beep&amp;theme=react-dark&amp;bg_color=00000000&amp;color=00e676&amp;line=00e676&amp;point=ffffff&amp;hide_border=true" alt="Grafica de Actividad de GitHub" width="95%" />
-
 </div>
 
 ---
@@ -113,6 +109,10 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake.svg">
   </picture>
+
+  <br /><br />
+
+  <img src="https://github-activity-graph.vercel.app/graph?username=adrianjesus1209-beep&amp;theme=react-dark&amp;bg_color=00000000&amp;color=00e676&amp;line=00e676&amp;point=ffffff&amp;hide_border=true" alt="Grafica de Actividad de GitHub" width="95%" />
 
   <br /><br />
 
