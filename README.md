@@ -98,7 +98,7 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
 
   <br />
 
-  <img src="https://ghchart.rshah.org/00e676/adrianjesus1209-beep" alt="Grafica de Actividad de GitHub de Adrian" width="95%" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=adrianjesus1209-beep&amp;theme=react-dark&amp;bg_color=00000000&amp;color=00e676&amp;line=00e676&amp;point=ffffff&amp;hide_border=true" alt="Grafica de Actividad de GitHub" width="95%" />
 
 </div>
 
