@@ -116,12 +116,16 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
 
   <br /><br />
 
-  <img src="https://github-readme-stats.shion.dev/api?username=adrianjesus1209-beep&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=00e676&amp;icon_color=00e676&amp;text_color=ffffff&amp;count_private=true" alt="GitHub Stats" width="38%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adrianjesus1209-beep&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=00e676&amp;text_color=ffffff" alt="Top Languages" width="38%" />
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api?username=adrianjesus1209-beep&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=00e676&amp;icon_color=00e676&amp;text_color=ffffff&amp;count_private=true" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adrianjesus1209-beep&amp;layout=compact&amp;langs_count=5&amp;theme=transparent&amp;hide_border=true&amp;title_color=00e676&amp;text_color=ffffff" alt="Top Languages" height="150" />
+  </p>
 
-  <br /><br />
+  <br />
 
-  <img src="https://streak-stats.demolab.com/?user=adrianjesus1209-beep&amp;theme=transparent&amp;hide_border=true&amp;ring=00e676&amp;fire=00e676&amp;currStreakNum=ffffff" alt="GitHub Streak Stats" width="60%" />
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=adrianjesus1209-beep&amp;theme=transparent&amp;hide_border=true&amp;ring=00e676&amp;fire=00e676&amp;currStreakNum=ffffff" alt="GitHub Streak Stats" height="150" />
+  </p>
 
 </div>
 
