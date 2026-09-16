@@ -112,13 +112,12 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianjesus1209-beep&amp;show_icons=true&amp;theme=dark&amp;count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianjesus1209-beep&amp;layout=compact&amp;theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=adrianjesus1209-beep&amp;show_icons=true&amp;theme=dark&amp;count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=adrianjesus1209-beep&amp;layout=compact&amp;theme=dark" alt="Top Languages" width="48%" />
 
   <br /><br />
 
-  <img src="https://streak-stats.demolab.com/?user=adrianjesus1209-beep&amp;theme=dark" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=adrianjesus1209-beep&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=adrianjesus1209-beep&amp;theme=dark" alt="GitHub Streak Stats" width="80%" />
 
 </div>
 
