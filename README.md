@@ -100,26 +100,15 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
 
 ---
 
-## Proyectos Destacados
-
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :--- |
-| **HexaFlow BANCO LOCAL** | Plataforma de banca en línea moderna con transferencias en tiempo real y panel financiero. | `PHP` `MySQL` `JavaScript` `CSS3` |
-| **Dolarfy App** | Aplicación web para cálculo y monitoreo interactivo de tasas cambiarias en Venezuela. | `JavaScript` `HTML5` `CSS3` `API REST` |
-| **ZylosX Streaming** | Plataforma interactiva de entretenimiento multimedia y transmisión en vivo. | `Node.js` `React` `CSS3` |
-| **Editor de Diagramas** | Herramienta en la nube para creación y edición visual de diagramas de software. | `JavaScript` `HTML5 Canvas` `CSS3` |
-| **Tekefritos Admin** | Sistema administrativo de ventas, inventario y facturación comercial. | `PHP` `MySQL` `Bootstrap` |
-| **LVTN Afiliados** | Sistema de gestión de afiliados, comisiones y redes de referencia. | `PHP` `Laravel` `MySQL` |
-| **Gestor SICEU UNEFA** | Sistema universitario de control de asistencias e inventario de biblioteca. | `PHP` `PostgreSQL` `JavaScript` |
-| **The Void Threshold** | Videojuego interactivo de estrategia y exploración. | `JavaScript` `Canvas API` |
-
----
-
 ## Estadísticas de GitHub &amp; Actividad en Vivo
 
 <div align="center">
 
-  ![Adrian's GitHub Chart](https://ghchart.rshah.org/39d353/adrianjesus1209-beep)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adrianjesus1209-beep/adrianjesus1209-beep/output/github-contribution-grid-snake.svg">
+  </picture>
 
   <br /><br />
 
