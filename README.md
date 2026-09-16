@@ -112,7 +112,7 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
 
   <br /><br />
 
-  <img src="https://github-activity-graph.vercel.app/graph?username=adrianjesus1209-beep&amp;theme=react-dark&amp;bg_color=00000000&amp;color=00e676&amp;line=00e676&amp;point=ffffff&amp;hide_border=true" alt="Grafica de Actividad de GitHub" width="95%" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=adrianjesus1209-beep&amp;custom_title=Actividad+de+Adrian+Bello&amp;theme=react-dark&amp;bg_color=00000000&amp;color=00e676&amp;line=00e676&amp;point=ffffff&amp;hide_border=true" alt="Grafica de Actividad de GitHub" width="95%" />
 
   <br /><br />
 
