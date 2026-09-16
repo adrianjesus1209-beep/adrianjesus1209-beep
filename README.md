@@ -157,27 +157,27 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
 
 <p align="center">
   <a href="mailto:adrianjesus1209@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-adrianjesus1209-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/--EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://wa.me/584128871272">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B58%20412--8871272-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/--25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9">
-    <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Bello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://www.tiktok.com/@leviatan_ajbg">
-    <img src="https://img.shields.io/badge/TikTok-%40leviatan__ajbg-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   &nbsp;
   <a href="https://x.com/AdrianjesusBel2">
-    <img src="https://img.shields.io/badge/X-%40AdrianjesusBel2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/share/1MFUsnbP3D/">
-    <img src="https://img.shields.io/badge/Facebook-Adrian%20Bello-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/--1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
@@ -185,11 +185,11 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
 
 <div align="center">
   <p>
-    <a href="https://github.com/adrianjesus1209-beep"><img src="https://img.shields.io/badge/GitHub-adrianjesus1209--beep-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://github.com/adrianjesus1209-beep"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9"><img src="https://img.shields.io/badge/LinkedIn-Adrian%20Bello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9"><img src="https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     &nbsp;
-    <a href="https://wa.me/584128871272"><img src="https://img.shields.io/badge/WhatsApp-%2B58%20412--8871272-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+    <a href="https://wa.me/584128871272"><img src="https://img.shields.io/badge/--25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
   <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
   <br /><br />
