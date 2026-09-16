@@ -6,7 +6,7 @@
 
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=flat-square&label=Vistas+al+perfil" alt="Visitas al Perfil" height="18" />
+    <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
   </p>
 
 </div>
@@ -169,7 +169,7 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
     <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9"><img src="https://img.shields.io/badge/LinkedIn-Adrian%20Bello-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" height="20"></a>
     <a href="https://wa.me/584128871272"><img src="https://img.shields.io/badge/WhatsApp-+58%20412--8871272-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp" height="20"></a>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=flat-square&label=Vistas+al+perfil" alt="Visitas al Perfil" height="20" />
+  <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
   <br /><br />
   <sub>Diseñado &amp; Desarrollado por <strong>Adrian Bello</strong> © 2026</sub>
 </div>
