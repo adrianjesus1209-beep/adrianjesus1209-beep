@@ -96,6 +96,10 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot Engine" height="18" />
 </p>
 
+  <br />
+
+  <img src="https://ghchart.rshah.org/00e676/adrianjesus1209-beep" alt="Grafica de Actividad de GitHub de Adrian" width="95%" />
+
 </div>
 
 ---
