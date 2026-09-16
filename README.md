@@ -155,12 +155,31 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
 
 ## Contacto &amp; Redes Sociales
 
-- **Correo**: [adrianjesus1209@gmail.com](mailto:adrianjesus1209@gmail.com)
-- **WhatsApp**: [+58 412-8871272](https://wa.me/584128871272)
-- **LinkedIn**: [Adrian Bello](https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9)
-- **TikTok**: [@leviatan_ajbg](https://www.tiktok.com/@leviatan_ajbg)
-- **X (Twitter)**: [@AdrianjesusBel2](https://x.com/AdrianjesusBel2)
-- **Facebook**: [Adrian Bello](https://www.facebook.com/share/1MFUsnbP3D/)
+<p align="center">
+  <a href="mailto:adrianjesus1209@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-adrianjesus1209-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/584128871272">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B58%20412--8871272-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9">
+    <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Bello-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@leviatan_ajbg">
+    <img src="https://img.shields.io/badge/TikTok-%40leviatan__ajbg-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/AdrianjesusBel2">
+    <img src="https://img.shields.io/badge/X-%40AdrianjesusBel2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1MFUsnbP3D/">
+    <img src="https://img.shields.io/badge/Facebook-Adrian%20Bello-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 <br />
 
