@@ -3,11 +3,7 @@
   <h1>Hi there, I'm <span style="color:#00e676;">Adrian Bello</span></h1>
   <p><strong>Estudiante de 7mo Semestre de Ingeniería en Sistemas &amp; Desarrollador Full Stack</strong></p>
 
-  <p>
-    <a href="https://github.com/adrianjesus1209-beep"><img src="https://img.shields.io/badge/GitHub-adrianjesus1209--beep-181717?style=flat-square&logo=github" alt="GitHub" height="18"></a>
-    <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9"><img src="https://img.shields.io/badge/LinkedIn-Adrian%20Bello-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" height="18"></a>
-    <a href="https://wa.me/584128871272"><img src="https://img.shields.io/badge/WhatsApp-+58%20412--8871272-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp" height="18"></a>
-  </p>
+
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=flat-square&label=Vistas+al+perfil" alt="Visitas al Perfil" height="18" />
@@ -168,5 +164,12 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
 <br />
 
 <div align="center">
+  <p>
+    <a href="https://github.com/adrianjesus1209-beep"><img src="https://img.shields.io/badge/GitHub-adrianjesus1209--beep-181717?style=flat-square&logo=github" alt="GitHub" height="20"></a>
+    <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9"><img src="https://img.shields.io/badge/LinkedIn-Adrian%20Bello-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" height="20"></a>
+    <a href="https://wa.me/584128871272"><img src="https://img.shields.io/badge/WhatsApp-+58%20412--8871272-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp" height="20"></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=flat-square&label=Vistas+al+perfil" alt="Visitas al Perfil" height="20" />
+  <br /><br />
   <sub>Diseñado &amp; Desarrollado por <strong>Adrian Bello</strong> © 2026</sub>
 </div>
