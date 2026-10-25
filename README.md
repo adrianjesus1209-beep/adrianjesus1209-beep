@@ -3,7 +3,11 @@
   <h1>Hi there, I'm <span style="color:#00e676;">Adrian Bello</span></h1>
   <p><strong>Estudiante de 7mo Semestre de Ingeniería en Sistemas &amp; Desarrollador Full Stack</strong></p>
 
-
+  <p>
+    <a href="https://adrianbell.kesug.com/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTAFOLIO_WEB-adrianbell.kesug.com-00e676?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
+    </a>
+  </p>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
@@ -20,12 +24,17 @@ Soy **Adrian Jesús Bello Gutiérrez**, estudiante avanzado del **7mo semestre d
 - **Especialidad**: Desarrollo Full Stack (Frontend UI/UX dinámico + Backend robusto y arquitectura de base de datos).
 - **Filosofía**: Combinar sólidos principios de ingeniería de software con interfaces modernas, intuitivas y de alto rendimiento.
 - **Enfoque Actual**: Construcción de plataformas SaaS, sistemas administrativos y herramientas de código abierto.
+- **Portafolio Web**: [adrianbell.kesug.com](https://adrianbell.kesug.com/)
 
 ---
 
-## Curriculum Vitae
+## Portafolio &amp; Curriculum Vitae
 
 <p align="center">
+  <a href="https://adrianbell.kesug.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VER_PORTAFOLIO-WEB-00e676?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver Portafolio Web" />
+  </a>
+  &nbsp;
   <a href="https://github.com/adrianjesus1209-beep/adrianjesus1209-beep/blob/main/Curriculum_Vitae_Adrian_Jesus.pdf" target="_blank">
     <img src="https://img.shields.io/badge/VER_ONLINE-PDF-00e676?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Ver CV Online" />
   </a>
@@ -156,6 +165,10 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
 ## Contacto &amp; Redes Sociales
 
 <p align="center">
+  <a href="https://adrianbell.kesug.com/" target="_blank">
+    <img src="https://img.shields.io/badge/--00e676?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web" />
+  </a>
+  &nbsp;
   <a href="mailto:adrianjesus1209@gmail.com">
     <img src="https://img.shields.io/badge/--EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -185,6 +198,8 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
 
 <div align="center">
   <p>
+    <a href="https://adrianbell.kesug.com/" target="_blank"><img src="https://img.shields.io/badge/--00e676?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio Web"></a>
+    &nbsp;
     <a href="https://github.com/adrianjesus1209-beep"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     &nbsp;
     <a href="https://www.linkedin.com/in/adrian-jesus-bello-gutierrez-6315533a9"><img src="https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
