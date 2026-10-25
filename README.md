@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
+    <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=006400&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
   </p>
 
 </div>
@@ -206,7 +206,7 @@ Si este contenido o proyectos te han sido de utilidad, puedes apoyarme mediante 
     &nbsp;
     <a href="https://wa.me/584128871272"><img src="https://img.shields.io/badge/--25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=00e676&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=adrianjesus1209-beep&color=006400&style=for-the-badge&label=VISTAS+AL+PERFIL" alt="Visitas al Perfil" />
   <br /><br />
   <sub>Diseñado &amp; Desarrollado por <strong>Adrian Bello</strong> © 2026</sub>
 </div>
